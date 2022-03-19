@@ -4,7 +4,7 @@
 ## so no need to recalculate it, if nothing changed. 
 
 ## Write a short comment describing this function
-
+## "makeCacheMatrix" function creates a special "matrix" object that can cache its inverse.
 
 makeCacheMatrix <- function(x = matrix()) {
 
